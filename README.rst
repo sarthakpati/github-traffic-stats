@@ -24,6 +24,9 @@ Installation
 
 ::
 
+    conda create -n github_stats python=3.6.5
+    activate github_stats
+
     pip install github_traffic_stats
 
 Dependencies
